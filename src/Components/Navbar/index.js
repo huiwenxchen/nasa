@@ -8,9 +8,6 @@ const Navbar = () => (
         <NavLink to='/'> 
             <Logo />
         </NavLink>
-        <NavLink to='/search'> 
-            Search
-        </NavLink> 
      </Container>
 )
 
