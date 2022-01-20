@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Components/Navbar/index';
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import Photos from './Containers/Photos/index'
-import Search from './Containers/Search';
+
 
 function App() {
   return (
