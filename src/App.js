@@ -10,9 +10,7 @@ function App() {
     <BrowserRouter basename="spacestagram">
     <Navbar />
     <Switch>
-      <Route path="/search">
-        <Search />
-      </Route>
+
       <Route path="/">
         <Photos />
       </Route>
