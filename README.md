@@ -5,8 +5,8 @@ This React app is built with the create-react-app command. To create the UI comp
 # DEMO
 
 <img width="1146" alt="Screen Shot 2022-01-19 at 9 26 21 PM" src="https://user-images.githubusercontent.com/97475388/150260937-f1d2cc15-3880-4c14-80f8-9f4b03cd8de1.png">
-(Each card will have box shadow on mouse over)
 <img width="1143" alt="Screen Shot 2022-01-19 at 9 26 53 PM" src="https://user-images.githubusercontent.com/97475388/150260984-01a586dc-069a-4509-973b-0e560f89c9a1.png">
+Shadow effect on hover, like, and link copied
 <img width="1148" alt="Screen Shot 2022-01-19 at 9 27 08 PM" src="https://user-images.githubusercontent.com/97475388/150261021-aa86ca5a-bb0d-4508-add1-df64c5b1f648.png">
 <img width="1140" alt="Screen Shot 2022-01-19 at 9 27 19 PM" src="https://user-images.githubusercontent.com/97475388/150261039-b312bd9f-b137-4f07-b61d-6a506a508ea5.png">
 <img width="1137" alt="Screen Shot 2022-01-19 at 9 27 28 PM" src="https://user-images.githubusercontent.com/97475388/150261060-4f94d18a-3bf0-4a3c-803b-57c4ff62dfa7.png">
